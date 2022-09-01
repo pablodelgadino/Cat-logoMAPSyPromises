@@ -1,0 +1,33 @@
+.Navbar{
+    background-color: black;
+    background-image: url(../images/banner.jpg);
+    width:100%;
+    padding: 1em;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    
+}
+.Navbar-h1{
+   text-decoration: none;
+
+}
+
+.Navbar-a{
+color: blanchedalmond;
+text-decoration: none;
+}
+
+.Navbar-ul{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+
+}
+
+.Navbar-li{
+    margin: 0.5em;
+    list-style: none;
+}
